@@ -1,0 +1,61 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC-20180520ZTTP",
+    "children" : [ {
+      "name" : "5276-MainThread",
+      "children" : [ {
+        "name" : "test_jenkins.TestJenkins.test_001",
+        "uid" : "1b9b18791bcf4303",
+        "parentUid" : "42ce80bb17e901290fe172668133e2cd",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565178678039,
+          "stop" : 1565178678128,
+          "duration" : 89
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_jenkins.TestJenkins.test_003",
+        "uid" : "aab9a2a378146740",
+        "parentUid" : "42ce80bb17e901290fe172668133e2cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565178678135,
+          "stop" : 1565178678136,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_jenkins.TestJenkins.test_002",
+        "uid" : "cea1301addca8380",
+        "parentUid" : "42ce80bb17e901290fe172668133e2cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565178678131,
+          "stop" : 1565178678133,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_jenkins.TestJenkins.test_004",
+        "uid" : "3ad8a989cee2c706",
+        "parentUid" : "42ce80bb17e901290fe172668133e2cd",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565178678138,
+          "stop" : 1565178678144,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "42ce80bb17e901290fe172668133e2cd"
+    } ],
+    "uid" : "789897b24b4e11245b230c3ed8c37290"
+  } ]
+}

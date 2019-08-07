@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"failed","scripts.test_jenkins.TestJenkins.test_001","89",""
+"passed","scripts.test_jenkins.TestJenkins.test_003","1",""
+"passed","scripts.test_jenkins.TestJenkins.test_002","2",""
+"failed","scripts.test_jenkins.TestJenkins.test_004","6",""

@@ -1,0 +1,74 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1565178678039" stop="1565178678144">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1565178678039" status="failed" stop="1565178678128">
+      <name>test_jenkins.TestJenkins.test_001</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;scripts.test_jenkins.TestJenkins object at 0x0000000003FA1128&gt;
+
+    def test_001(self):
+&gt;       assert 0
+E       assert 0
+
+scripts\test_jenkins.py:3: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5276-MainThread"/>
+        <label name="host" value="PC-20180520ZTTP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565178678131" status="passed" stop="1565178678133">
+      <name>test_jenkins.TestJenkins.test_002</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5276-MainThread"/>
+        <label name="host" value="PC-20180520ZTTP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565178678135" status="passed" stop="1565178678136">
+      <name>test_jenkins.TestJenkins.test_003</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5276-MainThread"/>
+        <label name="host" value="PC-20180520ZTTP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565178678138" status="failed" stop="1565178678144">
+      <name>test_jenkins.TestJenkins.test_004</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;scripts.test_jenkins.TestJenkins object at 0x0000000003FDF4E0&gt;
+
+    def test_004(self):
+&gt;       assert 0
+E       assert 0
+
+scripts\test_jenkins.py:12: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5276-MainThread"/>
+        <label name="host" value="PC-20180520ZTTP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
